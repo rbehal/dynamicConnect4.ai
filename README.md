@@ -26,7 +26,7 @@ An explanation of the parameters is in the following table:
 |-----------|---------------------------------------------------------------|
 | colour    | Must be "white" or "black" indicating the role of the player. |
 | port      | Port of the server. Default Java file uses 12345.             |
-| serverIP  | IP of the server.                                             |
+| serverIP  | IP of the server. For this class: 156TRLinux.ece.mcgill.ca    |
 | gameID    | ID of the game to create or join.                             |
 
 ## Initial Gamestate
