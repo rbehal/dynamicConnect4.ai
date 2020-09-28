@@ -30,7 +30,7 @@ An explanation of the parameters is in the following table:
 | gameID    | ID of the game to create or join.                             |
 
 ## Initial Gamestate
-THe initial gamestate is defined in the init.txt file. This file must be modified to change the initial gamestate. The format is as follows:
+The initial gamestate is defined in the init.txt file. This file must be modified to change the initial gamestate. The format is as follows:
 
 ~~~
  ,X,X, ,O, , 
