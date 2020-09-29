@@ -86,6 +86,7 @@ def main():
         
         if (len(data) == 5): # Opponent's move
             incoming_move = data[0:4]
+			print(incoming_move)
             if (incoming_move == last_move):
                 # If client is reading its own move, skip
                 continue; 
